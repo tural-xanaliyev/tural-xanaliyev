@@ -1,9 +1,9 @@
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Tural! 👋
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a front end developer...
 
 
 ## 🔗 Links
