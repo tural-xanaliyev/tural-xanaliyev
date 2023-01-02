@@ -1,10 +1,10 @@
 
 # Hi, I'm Tural! 👋
+<a href="https://app.daily.dev/Tural_052"><img src="https://api.daily.dev/devcards/c692fd3f8b944b2ea868872343fecd58.png?r=my0" width="400" alt="Tural's Dev Card"/></a>
 
 
 ## 🚀 About Me
 I'm a front end developer...
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tural-xanaliyev)
