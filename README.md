@@ -6,7 +6,7 @@
 I'm a front end developer...
 
 <a href="https://app.daily.dev/Tural_052"><img src="https://github.com/Tural052/Tural052/blob/main/devcard.svg" width="250" alt="Tural's Dev Card"/></a>
-<a href="https://app.codiga.io/hub/user/github">
+<a href="https://app.codiga.io/home/">
    <img src="https://api.codiga.io/public/badge/user/github/tural052?style=dark" alt="codiga badge" />
 </a>
 
