@@ -6,6 +6,9 @@
 I'm a front end developer...
 
 <a href="https://app.daily.dev/Tural_052"><img src="https://github.com/Tural052/Tural052/blob/main/devcard.svg" width="250" alt="Tural's Dev Card"/></a>
+<a href="https://app.codiga.io/hub/user/github">
+   <img src="https://api.codiga.io/public/badge/user/github/tural052?style=dark" alt="codiga badge" />
+</a>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tural-xanaliyev)
