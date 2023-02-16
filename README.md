@@ -16,7 +16,11 @@ I'm a front end developer...
 [![instagram](https://img.shields.io/badge/instagram-FF086E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xanaliyev_052_)
 
 
-
+ <p align="center">
+  <img src="https://github.com/Tural052/Tural052/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+ 
+ 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
