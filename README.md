@@ -16,9 +16,7 @@ I'm a front end developer...
 [![instagram](https://img.shields.io/badge/instagram-FF086E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xanaliyev_052_)
 
 
- <p align="center">
-  <img src="https://github.com/Tural052/Tural052/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+ 
  
  
 ## Other Common Github Profile Sections
@@ -41,4 +39,11 @@ I'm a front end developer...
 
 ## 🛠 Skills
 C#, Javascript, HTML, CSS, Bootstrap...
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=tural052" height="150" alt="stats graph"  />
+ </div>
 
+###
+<p align="center">
+  <img src="https://github.com/Tural052/Tural052/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
