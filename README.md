@@ -6,18 +6,41 @@
 I'm a front end developer...
 
 <a href="https://app.daily.dev/Tural_052"><img src="https://github.com/Tural052/Tural052/blob/main/devcard.svg" width="250" alt="Tural's Dev Card"/></a>
-<a href="https://app.codiga.io/home/">
+
+```js
+I am a full-stack developer with a passion for building responsive, user-friendly web applications using the latest technologies. 
+
+I have experience in React, Redux Toolkit, HTML, CSS, Chakra UI, TypeScript, ES6, Java, Spring, C# and ASP.NET. 
+
+I have strong skills in both front-end and back-end development, and I am able to work with a wide range of technologies 
+
+to build high-quality web applications. I am experienced in creating  efficient and scalable applications, 
+
+I am also experienced in implementing modern design patterns and best practices for web development.
+
+I am comfortable in working with Agile methodologies and I am a proactive problem solver. I am always looking for ways to improve my skills
+
+and stay current with the latest technologies. I enjoy working with different frameworks and libraries, experimenting with new technologies,
+
+and learning new programming languages. Additionally, I am an active member of the open-source community, and I enjoy contributing to open-source
+
+projects whenever possible. In my free time, I enjoy staying up to date with the latest developments in the web development industry,
+
+learning new technologies and experimenting with new ideas. I am always open to new opportunities to expand my knowledge and experience and 
+
+I am always looking for new challenges to tackle.
+
+```
+
+
+<hr/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=tural052" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tural052" height="150" alt="languages graph"  />
+ <a href="https://app.codiga.io/home/">
    <img src="https://api.codiga.io/public/badge/user/github/tural052?style=dark" alt="codiga badge" />
 </a>
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tural-xanaliyev)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tural84938557)
-[![instagram](https://img.shields.io/badge/instagram-FF086E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xanaliyev_052_)
-
-
- 
- 
+ </div>
  
 ## 🛠️ My Skills
 -------------------
@@ -67,12 +90,14 @@ I'm a front end developer...
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
 -------------------
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=tural052" height="150" alt="stats graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tural052" height="150" alt="languages graph"  />
- </div>
+
 
 ###
 <p align="center">
   <img src="https://github.com/Tural052/Tural052/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tural-xanaliyev)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tural84938557)
+[![instagram](https://img.shields.io/badge/instagram-FF086E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xanaliyev_052_)
