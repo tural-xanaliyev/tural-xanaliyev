@@ -25,7 +25,9 @@ I'm a front end developer...
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![C++](https://img.shields.io/badge/c++-000?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-000?logo=c-sharp&logoColor=white)
+
 
 
 -------------------
@@ -40,7 +42,7 @@ I'm a front end developer...
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
-
+![Socket.io](https://img.shields.io/badge/Socket.io-000?logo=socket.io&badgeColor=010101)
 -------------------
 ### Misc tools:
 
@@ -50,13 +52,19 @@ I'm a front end developer...
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 
 -------------------
-
+### Design:
+![Figma](https://img.shields.io/badge/figma-000?logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-000?slogoColor=white)
 -------------------
 ### Databases:
 
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MySQL](https://img.shields.io/badge/mysql-000?logo=mysql&logoColor=white)
 
-
+### Outher:
+![CircleCI](https://img.shields.io/badge/circle-000?logo=circleci&logoColor=white)
+![Hashnode](https://img.shields.io/badge/Hashnode-000?logo=hashnode&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?logo=HackerRank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
 -------------------
 
 <div align="center">
