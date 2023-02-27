@@ -10,9 +10,9 @@ I'm a front end developer...
 ```js
 I am a full-stack developer with a passion for building responsive, user-friendly web applications using the latest technologies. 
 
-I have experience in React, Redux Toolkit, HTML, CSS, Chakra UI, TypeScript, ES6, Java, Spring, C# and ASP.NET. 
+I have experience in React, Redux Toolkit, HTML, CSS, Chakra UI, TypeScript and ES6 . 
 
-I have strong skills in both front-end and back-end development, and I am able to work with a wide range of technologies 
+I have strong skills in both front-end, and I am able to work with a wide range of technologies 
 
 to build high-quality web applications. I am experienced in creating  efficient and scalable applications, 
 
