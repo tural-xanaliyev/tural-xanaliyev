@@ -8,7 +8,7 @@ I'm a front end developer...
 <a href="https://app.daily.dev/Tural_052"><img src="https://github.com/Tural052/Tural052/blob/main/devcard.svg" width="250" alt="Tural's Dev Card"/></a>
 
 ```js
-I am a full-stack developer with a passion for building responsive, user-friendly web applications using the latest technologies. 
+I am a Front-end developer with a passion for building responsive, user-friendly web applications using the latest technologies. 
 
 I have experience in React, Redux Toolkit, HTML, CSS, Chakra UI, TypeScript and ES6 . 
 
