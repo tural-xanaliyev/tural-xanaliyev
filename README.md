@@ -34,13 +34,7 @@ I am always looking for new challenges to tackle.
 
 
 <hr/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=tural052" height="150" alt="stats graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tural052" height="150" alt="languages graph"  />
- <a href="https://app.codiga.io/home/">
-   <img src="https://api.codiga.io/public/badge/user/github/tural052?style=dark" alt="codiga badge" />
-</a>
- </div>
+
  
 ## 🛠️ My Skills
 -------------------
