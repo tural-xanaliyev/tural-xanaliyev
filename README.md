@@ -88,7 +88,7 @@ I am always looking for new challenges to tackle.
 
 ###
 <p align="center">
-  <img src="https://github.com/Tural052/Tural052/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/tural-xanaliyev/tural-xanaliyev/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ## 🔗 Links
